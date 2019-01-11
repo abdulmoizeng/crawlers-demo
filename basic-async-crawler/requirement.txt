@@ -1,0 +1,4 @@
+aiohttp==3.5.2
+asyncio==3.4.3
+parsel
+requests
